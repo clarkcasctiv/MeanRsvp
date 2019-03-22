@@ -1,8 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 
-// partials
-@import "partials/layout.vars";
-@import "partials/responsive.partial";
+/* partials*/
+@import 'partials/layout.vars';
+@import 'partials/responsive.partial';
 
-// globals
-@import "base";
+/* global styles*/
+@import 'base';
